@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"db.bills"},{"v":{"$numberInt":"2"},"unique":true,"key":{"ticket_code":{"$numberInt":"1"}},"name":"ticket_code_1","ns":"db.bills","background":true}],"uuid":"e856351ea4514c48b76bd79ce02eaf28"}
